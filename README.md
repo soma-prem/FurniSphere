@@ -9,7 +9,7 @@ View product details
 Simulate placing orders
 Clean, user-friendly interface for exploring products
 
-![image_alt](one.jpg)
-![image_alt](two.jpg)
-![image_alt](three.jpg)
-![image_alt](four.jpg)
+![image_alt](one.jpeg)
+![image_alt](two.jpeg)
+![image_alt](three.jpeg)
+![image_alt](four.jpeg)
